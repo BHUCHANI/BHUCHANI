@@ -1,4 +1,4 @@
-# BHUVAN-PATEL<h1 align="center">Hi 👋, I'm Bhuvan Patel</h1>
+# BHUCHANI<h1 align="center">Hi 👋, I'm Bhuvan Patel</h1>
 <h3 align="center">I'm a Passionate coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuchani&label=Profile%20views&color=0e75b6&style=flat" alt="bhuchani" /> </p>
